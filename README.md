@@ -3,7 +3,7 @@ spring boot basic practice with REST API
 
 # Version
 * Java 17
-* Spring boot 3.04
+* Spring boot 3.0.4
 * Gradle
 * Jar
 
